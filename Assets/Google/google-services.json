@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89263065580",
+    "project_id": "minecraftmods-8c079",
+    "storage_bucket": "minecraftmods-8c079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89263065580:android:33574fad224beaf8fe18c9",
+        "android_client_info": {
+          "package_name": "com.m3.fan.MinecraftModsInstaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89263065580-hjt0njrkrsjk6km9j8f388a1cdacvivv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnafAzzL4VvwJGP_yln6v79DueN4Jo3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89263065580-hjt0njrkrsjk6km9j8f388a1cdacvivv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
